@@ -1,0 +1,17 @@
+Make project menu driven:
+1. Add Contact done
+2. Read all done
+3. update done
+4. Delete done
+5. Search by name done
+6. Search by mobile done
+7. Search by email done
+8. Exit --------------- A grade done
+
+Bonus Track
+1. When we add contact, duplicate name must not be allowed -------- A+ grade
+2. In deletion, if contact is not present it should say that the contact is not available
+3. In Updation, if contact is not present it should say that the contact is not available -------- O grade
+
+
+All Done - Grade O
